@@ -1,12 +1,15 @@
+import "@/assets/libs/lucide/umd/lucide.js"
 import type { Metadata } from "next";
-import "@/assets/scss/tailwind.scss";
-import "@/assets/scss/icons.scss";
+import "@/assets/css/tailwind2.css";
 
 
 export const metadata: Metadata = {
   title: "AWS CDK Test Analytics Dashboard",
   description: "Sample AWS CDK Web Application",
-  viewport: "width=device-width, initial-scale=1.0, user-scalable=no"
+  viewport: "width=device-width, initial-scale=1.0, user-scalable=no",
+  icons: {
+    icon: "./images/favicon.ico"
+  },  
 };
 
 export default function RootLayout({

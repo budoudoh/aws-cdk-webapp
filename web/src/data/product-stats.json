@@ -1,0 +1,262 @@
+[
+    {
+        "productName": "Disco Katty",
+        "productPrice": 21.99,
+        "productIncome": 6000,
+        "productSales": 250,
+        "productView": 9000,
+        "productClick": 600,
+        "productClickPercentage": 0.0667,
+        "productStatus": "Unavailable"
+    },
+    {
+        "productName": "Groovy Gizmo",
+        "productPrice": 18.99,
+        "productIncome": 4800,
+        "productSales": 180,
+        "productView": 7500,
+        "productClick": 450,
+        "productClickPercentage": 0.06,
+        "productStatus": "Available"
+    },
+    {
+        "productName": "Jazzy Jasper",
+        "productPrice": 22.99,
+        "productIncome": 6200,
+        "productSales": 260,
+        "productView": 9200,
+        "productClick": 620,
+        "productClickPercentage": 0.0674,
+        "productStatus": "Unavailable"
+    },
+    {
+        "productName": "Disco Daisy",
+        "productPrice": 20.99,
+        "productIncome": 5500,
+        "productSales": 230,
+        "productView": 8500,
+        "productClick": 550,
+        "productClickPercentage": 0.0647,
+        "productStatus": "Available"
+    },
+    {
+        "productName": "Boogie Bella",
+        "productPrice": 23.99,
+        "productIncome": 6400,
+        "productSales": 270,
+        "productView": 9500,
+        "productClick": 650,
+        "productClickPercentage": 0.0684,
+        "productStatus": "Available"
+    },
+    {
+        "productName": "Retro Rocket",
+        "productPrice": 19.49,
+        "productIncome": 5200,
+        "productSales": 210,
+        "productView": 8200,
+        "productClick": 520,
+        "productClickPercentage": 0.0634,
+        "productStatus": "Unavailable"
+    },
+    {
+        "productName": "Disco Dazzle",
+        "productPrice": 24.49,
+        "productIncome": 6600,
+        "productSales": 280,
+        "productView": 9700,
+        "productClick": 660,
+        "productClickPercentage": 0.068,
+        "productStatus": "Available"
+    },
+    {
+        "productName": "Funky Fuzzy",
+        "productPrice": 18.29,
+        "productIncome": 4700,
+        "productSales": 170,
+        "productView": 7300,
+        "productClick": 470,
+        "productClickPercentage": 0.0644,
+        "productStatus": "Unavailable"
+    },
+    {
+        "productName": "Sassy Samba",
+        "productPrice": 22.79,
+        "productIncome": 6100,
+        "productSales": 250,
+        "productView": 9100,
+        "productClick": 610,
+        "productClickPercentage": 0.067,
+        "productStatus": "Available"
+    },
+    {
+        "productName": "Disco Duke",
+        "productPrice": 20.79,
+        "productIncome": 5400,
+        "productSales": 220,
+        "productView": 8600,
+        "productClick": 540,
+        "productClickPercentage": 0.0628,
+        "productStatus": "Available"
+    },
+    {
+        "productName": "Jitterbug Jimmy",
+        "productPrice": 25.79,
+        "productIncome": 6800,
+        "productSales": 290,
+        "productView": 9800,
+        "productClick": 680,
+        "productClickPercentage": 0.0694,
+        "productStatus": "Unavailable"
+    },
+    {
+        "productName": "Disco Diva",
+        "productPrice": 18.59,
+        "productIncome": 4800,
+        "productSales": 190,
+        "productView": 7600,
+        "productClick": 480,
+        "productClickPercentage": 0.0632,
+        "productStatus": "Available"
+    },
+    {
+        "productName": "Funky Freya",
+        "productPrice": 21.59,
+        "productIncome": 5900,
+        "productSales": 240,
+        "productView": 8800,
+        "productClick": 590,
+        "productClickPercentage": 0.067,
+        "productStatus": "Unavailable"
+    },
+    {
+        "productName": "Disco Dizzy",
+        "productPrice": 19.99,
+        "productIncome": 5200,
+        "productSales": 210,
+        "productView": 8300,
+        "productClick": 520,
+        "productClickPercentage": 0.0627,
+        "productStatus": "Available"
+    },
+    {
+        "productName": "Jazz Hands Jackson",
+        "productPrice": 24.99,
+        "productIncome": 6700,
+        "productSales": 280,
+        "productView": 9600,
+        "productClick": 670,
+        "productClickPercentage": 0.0698,
+        "productStatus": "Unavailable"
+    },
+    {
+        "productName": "Disco Danny",
+        "productPrice": 18.79,
+        "productIncome": 4900,
+        "productSales": 200,
+        "productView": 7700,
+        "productClick": 490,
+        "productClickPercentage": 0.0636,
+        "productStatus": "Available"
+    },
+    {
+        "productName": "Funky Fluffy",
+        "productPrice": 22.79,
+        "productIncome": 6000,
+        "productSales": 250,
+        "productView": 8900,
+        "productClick": 600,
+        "productClickPercentage": 0.0674,
+        "productStatus": "Unavailable"
+    },
+    {
+        "productName": "Salsa Sally",
+        "productPrice": 20.29,
+        "productIncome": 5500,
+        "productSales": 220,
+        "productView": 8700,
+        "productClick": 550,
+        "productClickPercentage": 0.0632,
+        "productStatus": "Available"
+    },
+    {
+        "productName": "Disco Delilah",
+        "productPrice": 23.99,
+        "productIncome": 6300,
+        "productSales": 270,
+        "productView": 9400,
+        "productClick": 630,
+        "productClickPercentage": 0.067,
+        "productStatus": "Available"
+    },
+    {
+        "productName": "Funky Felix",
+        "productPrice": 20.49,
+        "productIncome": 5600,
+        "productSales": 240,
+        "productView": 8800,
+        "productClick": 560,
+        "productClickPercentage": 0.0636,
+        "productStatus": "Unavailable"
+    },
+    {
+        "productName": "Disco Daphne",
+        "productPrice": 19.79,
+        "productIncome": 5100,
+        "productSales": 220,
+        "productView": 8400,
+        "productClick": 510,
+        "productClickPercentage": 0.0607,
+        "productStatus": "Available"
+    },
+    {
+        "productName": "Jazzy Jaxon",
+        "productPrice": 24.79,
+        "productIncome": 6700,
+        "productSales": 290,
+        "productView": 9700,
+        "productClick": 670,
+        "productClickPercentage": 0.0691,
+        "productStatus": "Available"
+    },
+    {
+        "productName": "Disco Delaney",
+        "productPrice": 24.49,
+        "productIncome": 6700,
+        "productSales": 300,
+        "productView": 9900,
+        "productClick": 670,
+        "productClickPercentage": 0.0677,
+        "productStatus": "Available"
+    },
+    {
+        "productName": "Frisky Felicia",
+        "productPrice": 19.99,
+        "productIncome": 5000,
+        "productSales": 200,
+        "productView": 8000,
+        "productClick": 500,
+        "productClickPercentage": 0.0625,
+        "productStatus": "Available"
+    },
+    {
+        "productName": "Funky Frankie",
+        "productPrice": 18.49,
+        "productIncome": 5000,
+        "productSales": 210,
+        "productView": 8000,
+        "productClick": 500,
+        "productClickPercentage": 0.0625,
+        "productStatus": "Available"
+    },
+    {
+        "productName": "Sassy Samantha",
+        "productPrice": 22.49,
+        "productIncome": 6200,
+        "productSales": 270,
+        "productView": 9200,
+        "productClick": 620,
+        "productClickPercentage": 0.0674,
+        "productStatus": "Available"
+    }
+]

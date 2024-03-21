@@ -1,0 +1,14 @@
+[
+    {
+        "type": "Desktop",
+        "count": 17300
+    },
+    {
+        "type": "Mobile",
+        "count": 60550
+    },
+    {
+        "type": "Other",
+        "count": 8650
+    }    
+]
