@@ -256,34 +256,7 @@ const config: Config = {
     },
   },
   plugins: [
-    require('./plugins/headings.js'),
-    require('./plugins/buttons.js'),
-    require('./plugins/forms.js'),
-    require('./plugins/card.js'),
-    require('./plugins/drawer.js'),
-    //third party libraries
-    require('./plugins/flatpicker.js'),
-    require('./plugins/simplebar.js'),
-    require('./plugins/sweetalert2.js'),
-    require('./plugins/swiper.js'),
-    require('./plugins/tippy.js'),
-    require('./plugins/toastify.js'),
-    require('./plugins/choices.js'),
-    require('./plugins/dropzone.js'),
-    require('./plugins/colorpicker.js'),
-    require('./plugins/ckeditor.js'),
-    require('./plugins/datatable.js'),
-    require('./plugins/apexcharts.js'),
-    require('./plugins/maps.js'),
-    require('./plugins/listjs.js'),
-    require('./plugins/scroll-hint.js'),
-    require('./plugins/multijs.js'),
-    require('./plugins/fullcalendar.js'),
-    require('./plugins/lightbox.js'),
-    require('./plugins/prismjs.js'),
-    require('./plugins/vanilla-calendar.js'),
-    //apps pages
-    require('./plugins/apps.js'),
+    require("tailwindcss-animate")
   ],
 };
 export default config;

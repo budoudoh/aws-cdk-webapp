@@ -1,0 +1,465 @@
+{
+    "analytics_id": "abc123",
+    "analytics-totals": {
+     "avg_duration": 150,
+     "bounce_rate": 0.35,
+     "sessions": 15000,
+     "total_visitors": 10000
+    },
+    "page-views": [
+     {
+      "date": "2024-03-01",
+      "pageViews": 2500
+     },
+     {
+      "date": "2024-03-02",
+      "pageViews": 2800
+     },
+     {
+      "date": "2024-03-03",
+      "pageViews": 2900
+     },
+     {
+      "date": "2024-03-04",
+      "pageViews": 2700
+     },
+     {
+      "date": "2024-03-05",
+      "pageViews": 3000
+     },
+     {
+      "date": "2024-03-06",
+      "pageViews": 3200
+     },
+     {
+      "date": "2024-03-07",
+      "pageViews": 3100
+     },
+     {
+      "date": "2024-03-08",
+      "pageViews": 2900
+     },
+     {
+      "date": "2024-03-09",
+      "pageViews": 2800
+     },
+     {
+      "date": "2024-03-10",
+      "pageViews": 2700
+     },
+     {
+      "date": "2024-03-11",
+      "pageViews": 2600
+     },
+     {
+      "date": "2024-03-12",
+      "pageViews": 2800
+     },
+     {
+      "date": "2024-03-13",
+      "pageViews": 2900
+     },
+     {
+      "date": "2024-03-14",
+      "pageViews": 3100
+     },
+     {
+      "date": "2024-03-15",
+      "pageViews": 3300
+     },
+     {
+      "date": "2024-03-16",
+      "pageViews": 3200
+     },
+     {
+      "date": "2024-03-17",
+      "pageViews": 3100
+     },
+     {
+      "date": "2024-03-18",
+      "pageViews": 3000
+     },
+     {
+      "date": "2024-03-19",
+      "pageViews": 2900
+     },
+     {
+      "date": "2024-03-20",
+      "pageViews": 2800
+     },
+     {
+      "date": "2024-03-21",
+      "pageViews": 2700
+     },
+     {
+      "date": "2024-03-22",
+      "pageViews": 2800
+     }
+    ],
+    "product-stats": [
+     {
+      "productClick": 600,
+      "productClickPercentage": 0.0667,
+      "productIncome": 6000,
+      "productName": "Disco Katty",
+      "productPrice": 21.99,
+      "productSales": 250,
+      "productStatus": "Unavailable",
+      "productView": 9000
+     },
+     {
+      "productClick": 450,
+      "productClickPercentage": 0.06,
+      "productIncome": 4800,
+      "productName": "Groovy Gizmo",
+      "productPrice": 18.99,
+      "productSales": 180,
+      "productStatus": "Available",
+      "productView": 7500
+     },
+     {
+      "productClick": 620,
+      "productClickPercentage": 0.0674,
+      "productIncome": 6200,
+      "productName": "Jazzy Jasper",
+      "productPrice": 22.99,
+      "productSales": 260,
+      "productStatus": "Unavailable",
+      "productView": 9200
+     },
+     {
+      "productClick": 550,
+      "productClickPercentage": 0.0647,
+      "productIncome": 5500,
+      "productName": "Disco Daisy",
+      "productPrice": 20.99,
+      "productSales": 230,
+      "productStatus": "Available",
+      "productView": 8500
+     },
+     {
+      "productClick": 650,
+      "productClickPercentage": 0.0684,
+      "productIncome": 6400,
+      "productName": "Boogie Bella",
+      "productPrice": 23.99,
+      "productSales": 270,
+      "productStatus": "Available",
+      "productView": 9500
+     },
+     {
+      "productClick": 520,
+      "productClickPercentage": 0.0634,
+      "productIncome": 5200,
+      "productName": "Retro Rocket",
+      "productPrice": 19.49,
+      "productSales": 210,
+      "productStatus": "Unavailable",
+      "productView": 8200
+     },
+     {
+      "productClick": 660,
+      "productClickPercentage": 0.068,
+      "productIncome": 6600,
+      "productName": "Disco Dazzle",
+      "productPrice": 24.49,
+      "productSales": 280,
+      "productStatus": "Available",
+      "productView": 9700
+     },
+     {
+      "productClick": 470,
+      "productClickPercentage": 0.0644,
+      "productIncome": 4700,
+      "productName": "Funky Fuzzy",
+      "productPrice": 18.29,
+      "productSales": 170,
+      "productStatus": "Unavailable",
+      "productView": 7300
+     },
+     {
+      "productClick": 610,
+      "productClickPercentage": 0.067,
+      "productIncome": 6100,
+      "productName": "Sassy Samba",
+      "productPrice": 22.79,
+      "productSales": 250,
+      "productStatus": "Available",
+      "productView": 9100
+     },
+     {
+      "productClick": 540,
+      "productClickPercentage": 0.0628,
+      "productIncome": 5400,
+      "productName": "Disco Duke",
+      "productPrice": 20.79,
+      "productSales": 220,
+      "productStatus": "Available",
+      "productView": 8600
+     },
+     {
+      "productClick": 680,
+      "productClickPercentage": 0.0694,
+      "productIncome": 6800,
+      "productName": "Jitterbug Jimmy",
+      "productPrice": 25.79,
+      "productSales": 290,
+      "productStatus": "Unavailable",
+      "productView": 9800
+     },
+     {
+      "productClick": 480,
+      "productClickPercentage": 0.0632,
+      "productIncome": 4800,
+      "productName": "Disco Diva",
+      "productPrice": 18.59,
+      "productSales": 190,
+      "productStatus": "Available",
+      "productView": 7600
+     },
+     {
+      "productClick": 590,
+      "productClickPercentage": 0.067,
+      "productIncome": 5900,
+      "productName": "Funky Freya",
+      "productPrice": 21.59,
+      "productSales": 240,
+      "productStatus": "Unavailable",
+      "productView": 8800
+     },
+     {
+      "productClick": 520,
+      "productClickPercentage": 0.0627,
+      "productIncome": 5200,
+      "productName": "Disco Dizzy",
+      "productPrice": 19.99,
+      "productSales": 210,
+      "productStatus": "Available",
+      "productView": 8300
+     },
+     {
+      "productClick": 670,
+      "productClickPercentage": 0.0698,
+      "productIncome": 6700,
+      "productName": "Jazz Hands Jackson",
+      "productPrice": 24.99,
+      "productSales": 280,
+      "productStatus": "Unavailable",
+      "productView": 9600
+     },
+     {
+      "productClick": 490,
+      "productClickPercentage": 0.0636,
+      "productIncome": 4900,
+      "productName": "Disco Danny",
+      "productPrice": 18.79,
+      "productSales": 200,
+      "productStatus": "Available",
+      "productView": 7700
+     },
+     {
+      "productClick": 600,
+      "productClickPercentage": 0.0674,
+      "productIncome": 6000,
+      "productName": "Funky Fluffy",
+      "productPrice": 22.79,
+      "productSales": 250,
+      "productStatus": "Unavailable",
+      "productView": 8900
+     },
+     {
+      "productClick": 550,
+      "productClickPercentage": 0.0632,
+      "productIncome": 5500,
+      "productName": "Salsa Sally",
+      "productPrice": 20.29,
+      "productSales": 220,
+      "productStatus": "Available",
+      "productView": 8700
+     },
+     {
+      "productClick": 630,
+      "productClickPercentage": 0.067,
+      "productIncome": 6300,
+      "productName": "Disco Delilah",
+      "productPrice": 23.99,
+      "productSales": 270,
+      "productStatus": "Available",
+      "productView": 9400
+     },
+     {
+      "productClick": 560,
+      "productClickPercentage": 0.0636,
+      "productIncome": 5600,
+      "productName": "Funky Felix",
+      "productPrice": 20.49,
+      "productSales": 240,
+      "productStatus": "Unavailable",
+      "productView": 8800
+     },
+     {
+      "productClick": 510,
+      "productClickPercentage": 0.0607,
+      "productIncome": 5100,
+      "productName": "Disco Daphne",
+      "productPrice": 19.79,
+      "productSales": 220,
+      "productStatus": "Available",
+      "productView": 8400
+     },
+     {
+      "productClick": 670,
+      "productClickPercentage": 0.0691,
+      "productIncome": 6700,
+      "productName": "Jazzy Jaxon",
+      "productPrice": 24.79,
+      "productSales": 290,
+      "productStatus": "Available",
+      "productView": 9700
+     },
+     {
+      "productClick": 670,
+      "productClickPercentage": 0.0677,
+      "productIncome": 6700,
+      "productName": "Disco Delaney",
+      "productPrice": 24.49,
+      "productSales": 300,
+      "productStatus": "Available",
+      "productView": 9900
+     },
+     {
+      "productClick": 500,
+      "productClickPercentage": 0.0625,
+      "productIncome": 5000,
+      "productName": "Frisky Felicia",
+      "productPrice": 19.99,
+      "productSales": 200,
+      "productStatus": "Available",
+      "productView": 8000
+     },
+     {
+      "productClick": 500,
+      "productClickPercentage": 0.0625,
+      "productIncome": 5000,
+      "productName": "Funky Frankie",
+      "productPrice": 18.49,
+      "productSales": 210,
+      "productStatus": "Available",
+      "productView": 8000
+     },
+     {
+      "productClick": 620,
+      "productClickPercentage": 0.0674,
+      "productIncome": 6200,
+      "productName": "Sassy Samantha",
+      "productPrice": 22.49,
+      "productSales": 270,
+      "productStatus": "Available",
+      "productView": 9200
+     }
+    ],
+    "unique-visitors": [
+     {
+      "date": "2024-03-01",
+      "uniqueVisitors": 1200
+     },
+     {
+      "date": "2024-03-02",
+      "uniqueVisitors": 1300
+     },
+     {
+      "date": "2024-03-03",
+      "uniqueVisitors": 1250
+     },
+     {
+      "date": "2024-03-04",
+      "uniqueVisitors": 1280
+     },
+     {
+      "date": "2024-03-05",
+      "uniqueVisitors": 1220
+     },
+     {
+      "date": "2024-03-06",
+      "uniqueVisitors": 1350
+     },
+     {
+      "date": "2024-03-07",
+      "uniqueVisitors": 1300
+     },
+     {
+      "date": "2024-03-08",
+      "uniqueVisitors": 1270
+     },
+     {
+      "date": "2024-03-09",
+      "uniqueVisitors": 1235
+     },
+     {
+      "date": "2024-03-10",
+      "uniqueVisitors": 1210
+     },
+     {
+      "date": "2024-03-11",
+      "uniqueVisitors": 1290
+     },
+     {
+      "date": "2024-03-12",
+      "uniqueVisitors": 1330
+     },
+     {
+      "date": "2024-03-13",
+      "uniqueVisitors": 1245
+     },
+     {
+      "date": "2024-03-14",
+      "uniqueVisitors": 1310
+     },
+     {
+      "date": "2024-03-15",
+      "uniqueVisitors": 1360
+     },
+     {
+      "date": "2024-03-16",
+      "uniqueVisitors": 1285
+     },
+     {
+      "date": "2024-03-17",
+      "uniqueVisitors": 1260
+     },
+     {
+      "date": "2024-03-18",
+      "uniqueVisitors": 1220
+     },
+     {
+      "date": "2024-03-19",
+      "uniqueVisitors": 1245
+     },
+     {
+      "date": "2024-03-20",
+      "uniqueVisitors": 1230
+     },
+     {
+      "date": "2024-03-21",
+      "uniqueVisitors": 1275
+     },
+     {
+      "date": "2024-03-22",
+      "uniqueVisitors": 1305
+     }
+    ],
+    "user-devices": [
+     {
+      "count": 17300,
+      "type": "Desktop"
+     },
+     {
+      "count": 60550,
+      "type": "Mobile"
+     },
+     {
+      "count": 8650,
+      "type": "Other"
+     }
+    ]
+   }

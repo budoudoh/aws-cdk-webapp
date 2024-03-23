@@ -1,0 +1,21 @@
+{
+  "name": "lambdas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-lambda-powertools/logger": "^2.0.3",
+    "aws-lambda": "^1.0.7",
+    "aws-sdk": "^2.1582.0",
+    "dotenv": "^16.4.5",
+    "http-status": "^1.7.4"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.136"
+  }
+}

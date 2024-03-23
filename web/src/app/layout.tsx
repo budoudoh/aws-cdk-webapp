@@ -1,7 +1,5 @@
-import "@/assets/libs/lucide/umd/lucide.js"
 import type { Metadata } from "next";
-import "@/assets/css/tailwind2.css";
-
+import "@/assets/css/tailwind2.css"
 
 export const metadata: Metadata = {
   title: "AWS CDK Test Analytics Dashboard",
